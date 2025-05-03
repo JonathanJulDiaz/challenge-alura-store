@@ -24,14 +24,30 @@ El análisis fue desarrollado en un entorno de Google Colab utilizando Python y 
 
 - Otras librerías menores: Utilizadas según la necesidad específica de algunas visualizaciones o manipulación avanzada de datos.
 
+## 📁 Estructura del repositorio
+```
+📁 challenge-alura-store/
+├── 📄 AluraStoreLatam.ipynb   # Notebook principal con el análisis de las 4 tiendas
+└── 📄 README.md                # Archivo descriptivo del proyecto
+```
+
 ## 📈 Visualizaciones
 Las gráficas están diseñadas para ser:
 
 - Fáciles de interpretar
 
+![Ingresos totales](https://github.com/user-attachments/assets/ca6046d5-d863-4b2c-96b4-b2743bbfa013)
+
+
 - Coloridas y diferenciadas
 
+![Ventas por productos](https://github.com/user-attachments/assets/4699bbb7-5b46-4222-b9e4-20bd82ad413d)
+
+
 - Relevantes para la toma de decisiones
+
+![Calificación promedio](https://github.com/user-attachments/assets/f0cf9fec-e894-4fce-9f94-4c2ad57f1e0e)
+
 
 Se comparan los valores clave entre las tiendas para identificar aquella con menor rendimiento relativo o menor potencial futuro.
 
